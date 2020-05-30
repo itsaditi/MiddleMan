@@ -3,7 +3,7 @@
   </head>
  
  <body>
-<h1>Game : MiddleMan</h1> <br><hr>
+<h1>Game : MiddleMan</h1>
 A game inspired by flanker test, made in python 3 using tkinter library.
 
 Flanker test- In cognitive psychology, the Eriksen flanker task is a set of response inhibition tests used to assess the ability to suppress responses that are inappropriate in a particular context.
