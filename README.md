@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="y9w7d9GH1y7qn5LPpB2L36LSFh1xGxcg4k542inOuoM" />
+
 # Game : MiddleMan
 A game inspired by flanker test, made in python 3 using tkinter library.
 
