@@ -20,9 +20,10 @@ Converted the project to a executable file. Used pyInstaller to do so.
 
 Reference <a href="https://youtu.be/lOIJIk_maO4">to convert python code to executable. </a><br>
 
-<h7>Note:</h7>
+<h6>Note:</h6>
 Have tried implementing something which inspired me during a research study (volunteered as a subject). Will soon release new features. Feel free to give your feedback. 
 <br>
+
 <h7>Contact:</h7> aditi3049@gmail.com
 </body>
 </html>
