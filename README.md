@@ -1,6 +1,7 @@
+<html>
 <head>
-  <meta name="google-site-verification" content="y9w7d9GH1y7qn5LPpB2L36LSFh1xGxcg4k542inOuoM" />
-  </head>
+<meta name="google-site-verification" content="y9w7d9GH1y7qn5LPpB2L36LSFh1xGxcg4k542inOuoM" />
+ </head>
  
  <body>
 <h1>Game : MiddleMan</h1>
@@ -22,3 +23,4 @@ Reference <a href="https://youtu.be/lOIJIk_maO4">to convert python code to execu
 ##### Note:
 Have tried implementing something which inspired me during a research study (volunteered as a subject). Will soon release new features. Feel free to give your feedback.
 </body>
+</html>
