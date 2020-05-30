@@ -9,9 +9,9 @@ A game inspired by flanker test, made in python 3 using tkinter library.
 
 Flanker test- In cognitive psychology, the Eriksen flanker task is a set of response inhibition tests used to assess the ability to suppress responses that are inappropriate in a particular context.
 
-### Want to play the first version of the game ? Download the .exe file name <i>MiddleMan_v1.0</i>
+<h3>Want to play the first version of the game ? Download the .exe file name <i>MiddleMan_v1.0</i> </h3><br><br>
 
-## Release notes:
+<h2>Release notes:</h2>
 
 May 29,2020: A basic version of the game has been committed here. Still need to implement lots of basic and new features. Have made the prototype using Tkinter for GUI.
 Converted the project to a executable file. Used pyInstaller to do so.
