@@ -20,10 +20,10 @@ To generate a executable use-<br><code>pyinstaller -w [NameOfThePython.py]</code
  <li>To generate the executable which can run irrespective of its location.<br> <code>pyinstaller -w --onefile [NameOfTheFile.py]</code></li></ul>
 Reference <a href="https://youtu.be/lOIJIk_maO4">to convert python code to executable. </a><br>
 
-<h6>Note:
-Have tried implementing something which inspired me during a research study (volunteered as a subject). Will soon release new features. Feel free to give your feedback. </h6>
+Note:
+Have tried implementing something which inspired me during a research study (volunteered as a subject). Will soon release new features. Feel free to give your feedback.
 <br>
 
-<h7>Contact: aditi3049@gmail.com</h7>
+Contact: aditi3049@gmail.com
 </body>
 </html>
