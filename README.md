@@ -22,8 +22,8 @@ Reference <a href="https://youtu.be/lOIJIk_maO4">to convert python code to execu
 
 Note:
 Have tried implementing something which inspired me during a research study (volunteered as a subject). Will soon release new features. Feel free to give your feedback.
-<br><br>
+<br>
 
-Contact: aditi3049@gmail.com
+<a href="mailto:aditi3049@gmail.com">Send me a feedback.</a>
 </body>
 </html>
