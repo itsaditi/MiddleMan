@@ -15,15 +15,15 @@ Flanker test- In cognitive psychology, the Eriksen flanker task is a set of resp
 
 May 29,2020: A basic version of the game has been committed here. Still need to implement lots of basic and new features. Have made the prototype using Tkinter for GUI.
 Converted the project to a executable file. Used pyInstaller to do so.
-<li><ul>
-To generate a executable use-<br><code>pyinstaller -w [NameOfThePython.py]</code> <br> <i>-w</i> to run the executable without a initial command prompt screen.</ul>
- <ul>To generate the executable which can run irrespective of its location.<br> <code>pyinstaller -w --onefile [NameOfTheFile.py]</code></ul></li>
+<ul><li>
+To generate a executable use-<br><code>pyinstaller -w [NameOfThePython.py]</code> <br> <i>-w</i> to run the executable without a initial command prompt screen.</li>
+ <li>To generate the executable which can run irrespective of its location.<br> <code>pyinstaller -w --onefile [NameOfTheFile.py]</code></li></ul>
 Reference <a href="https://youtu.be/lOIJIk_maO4">to convert python code to executable. </a><br>
 
-<h7>Note:</h6>
+<h6>Note:</h6>
 Have tried implementing something which inspired me during a research study (volunteered as a subject). Will soon release new features. Feel free to give your feedback. 
 <br>
 
-<h7>Contact:</h7> aditi3049@gmail.com
+<h7>Contact: aditi3049@gmail.com</h7>
 </body>
 </html>
