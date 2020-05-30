@@ -11,10 +11,10 @@ May 29,2020: A basic version of the game has been committed here. Still need to 
 Converted the project to a executable file. Used pyInstaller to do so.
 <li>
 	<ul>
-		1.To generate a executable use-<br><code>pyinstaller -w [NameOfThePython.py]</code> <br> <i>-w</i> to run the executable without a initial command prompt screen.
+	To generate a executable use-<br><code>pyinstaller -w [NameOfThePython.py]</code> <br> <i>-w</i> to run the executable without a initial command prompt screen.
 	</ul>
 	<ul>
-		2.To generate the executable which can run irrespective of its location.
+		To generate the executable which can run irrespective of its location.
 		<br> <code>pyinstaller -w --onefile [NameOfTheFile.py]</code>
 	</ul>
 </li>
