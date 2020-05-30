@@ -18,9 +18,11 @@ Converted the project to a executable file. Used pyInstaller to do so.
 * To generate a executable use-<br><code>pyinstaller -w [NameOfThePython.py]</code> <br> <i>-w</i> to run the executable without a initial command prompt screen.
 * To generate the executable which can run irrespective of its location.<br> <code>pyinstaller -w --onefile [NameOfTheFile.py]</code>
 
-Reference <a href="https://youtu.be/lOIJIk_maO4">to convert python code to executable. </a>
+Reference <a href="https://youtu.be/lOIJIk_maO4">to convert python code to executable. </a><br>
 
 <h7>Note:</h7>
-Have tried implementing something which inspired me during a research study (volunteered as a subject). Will soon release new features. Feel free to give your feedback.
+Have tried implementing something which inspired me during a research study (volunteered as a subject). Will soon release new features. Feel free to give your feedback. 
+<br>
+<h7>Contact:</h7> aditi3049@gmail.com
 </body>
 </html>
