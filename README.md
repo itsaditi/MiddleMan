@@ -15,7 +15,7 @@ Converted the project to a executable file. Used pyInstaller to do so.
 	</ul>
 	<ul>
 		2.To generate the executable which can run irrespective of its location.
-		<br> <code>pyinstaller -w --onefile [NameOfTheFile.py]
+		<br> <code>pyinstaller -w --onefile [NameOfTheFile.py]</code>
 	</ul>
 </li>
 Reference <a href="https://youtu.be/lOIJIk_maO4">to convert python code to executable. </a>
