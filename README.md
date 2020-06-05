@@ -1,6 +1,8 @@
 <html>
 <head>
+ <noscript>
 <meta name="google-site-verification" content="y9w7d9GH1y7qn5LPpB2L36LSFh1xGxcg4k542inOuoM" />   
+ </noscript>
  </head>
  
  <body>
