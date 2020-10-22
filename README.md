@@ -6,7 +6,7 @@
  </head>
  
  <body>
-<h1>Game : MiddleMan</h1><img hre="http://hits.dwyl.com/itsaditi/MiddleMan.svg"/>
+<h1>Game : MiddleMan</h1><img href="http://hits.dwyl.com/itsaditi/MiddleMan.svg"/>
 
 A game inspired by flanker test, made in python 3 using tkinter library.
 
