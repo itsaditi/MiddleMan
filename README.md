@@ -6,7 +6,9 @@
  </head>
  
  <body>
-<h1>Game : MiddleMan</h1><p><a href="http://hits.dwyl.com/itsaditi/MiddleMan"><img src="http://hits.dwyl.com/itsaditi/MiddleMan.svg" alt="HitCount"></a></p>
+<h1>Game : MiddleMan</h1><p>
+ <a href="https://youtu.be/p8-ww9MaF5w">Video Demo</a>
+ <a href="http://hits.dwyl.com/itsaditi/MiddleMan"><img src="http://hits.dwyl.com/itsaditi/MiddleMan.svg" alt="HitCount"></a></p>
 
 
 A game inspired by flanker test, made in python 3 using tkinter library.
